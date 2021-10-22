@@ -4,6 +4,10 @@
 
 > 基于docsify实现静态网站生成器，文档内容基于markdown格式
 
+### demo
+* https://netbuffer.github.io/docsify-test
+* https://netbuffer.gitee.io/docsify-test
+
 ### help
 * 使用文档：https://docsify.js.org/#/quickstart
 * https://github.com/docsifyjs/docsify
